@@ -1,10 +1,14 @@
-### 반갑습니다. 유승재입니다. 👋
+
 
 <div align="center">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungjae-yu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+# 반갑습니다. 유승재입니다. 👋  
+
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseungjae-yu&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/seungjae-yu)
+
 </div>
 
-# https://seungjae-yu.github.io/TIL/
+https://seungjae-yu.github.io/TIL/
 
 <!--
 **seungjae-yu/seungjae-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
